@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Mike\Desktop\My Files\CS-AUEB\2ο ΕΤΟΣ\3ο ΕΞΑΜΗΝΟ\Courses_3\Προγραμματισμός Υπολογιστών με C++\Εργασίες\Full Project\Pong\ball.h(29,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Desktop\My Files\CS-AUEB\2ο ΕΤΟΣ\3ο ΕΞΑΜΗΝΟ\Courses_3\Προγραμματισμός Υπολογιστών με C++\Εργασίες\Full Project\Pong\ball.h(30,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 201 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pong.vcxproj -> C:\Users\Mike\Desktop\My Files\CS-AUEB\2ο ΕΤΟΣ\3ο ΕΞΑΜΗΝΟ\Courses_3\Προγραμματισμός Υπολογιστών με C++\Εργασίες\Full Project\Pong\bin\Pong.exe
