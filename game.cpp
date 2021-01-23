@@ -217,7 +217,7 @@ void Game::draw() {
 
 void Game::init() {
 	setFont(std::string(ASSET_PATH) + "bitstream.ttf");
-	playMusic(std::string(ASSET_PATH) + "coffin_dance.mp3", 0.3f, true, 4000);
+	playMusic(std::string(ASSET_PATH) + "coffin_dance.mp3", 1.0f, true, 4000);
 }
 
 float Game::window2canvasX(float x) {
